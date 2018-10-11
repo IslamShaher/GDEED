@@ -12,6 +12,7 @@ int main ()
 	DDRC|=0x0f ;
 	DDRC|=0x0f ;
 	DDRC|=0x0f ;
+	DDRC|=0x0f ;
 
 
 	while(1) {
