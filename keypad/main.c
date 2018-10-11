@@ -8,7 +8,8 @@
 
 int main ()
 
-{
+{DDRC|=7 ;
+	DDRC|=0x0f ;
 	DDRC|=0x0f ;
 	DDRC|=0x0f ;
 	DDRC|=0x0f ;
